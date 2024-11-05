@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea88c318.css",
-    "main.js": "/static/js/main.697c3b66.js",
-    "static/media/user5.jpeg": "/static/media/user5.19086a5190ca1687c9d5.jpeg",
-    "static/media/user2.jpeg": "/static/media/user2.9963ed168674db42f1eb.jpeg",
-    "static/media/user3.jpeg": "/static/media/user3.d8070250688cd5812ad5.jpeg",
-    "static/media/user4.jpeg": "/static/media/user4.c0d6819ff8e63d6ebd45.jpeg",
-    "static/media/user1.jpeg": "/static/media/user1.9e7c017674401a45392c.jpeg",
-    "static/media/Cancelled.svg": "/static/media/Cancelled.360749f102ea2ac68b5841e9f9ff29dd.svg",
-    "static/media/No-priority.svg": "/static/media/No-priority.7218b139313728c6a4efa8da6e34852b.svg",
-    "static/media/Done.svg": "/static/media/Done.a5158827c6345b2f141ff681c57cb3ac.svg",
-    "index.html": "/index.html",
-    "static/media/Img-Low-Priority.svg": "/static/media/Img-Low-Priority.491e21f9000cb90112dea470dbb72650.svg",
-    "static/media/Img-Medium-Priority.svg": "/static/media/Img-Medium-Priority.83775665307e977d62e9b0fc7fb95cc4.svg",
-    "static/media/Img-High-Priority.svg": "/static/media/Img-High-Priority.5024fd0d163cb13c95f2d29079e2974d.svg",
-    "static/media/in-progress.svg": "/static/media/in-progress.d4beb72fbc94f765259fc46ecaba9779.svg",
-    "static/media/SVG-Urgent_Priority_colour.svg": "/static/media/SVG-Urgent_Priority_colour.9b67f75d5459d4d66573ef9f8e6f6841.svg",
-    "static/media/Backlog.svg": "/static/media/Backlog.97adf3356b7d2e775ef530f7aed206e0.svg",
-    "main.ea88c318.css.map": "/static/css/main.ea88c318.css.map",
-    "main.697c3b66.js.map": "/static/js/main.697c3b66.js.map"
+    "main.css": "/KanBan-Quicksell-assignment/static/css/main.ea88c318.css",
+    "main.js": "/KanBan-Quicksell-assignment/static/js/main.48dd946c.js",
+    "static/media/user5.jpeg": "/KanBan-Quicksell-assignment/static/media/user5.19086a5190ca1687c9d5.jpeg",
+    "static/media/user2.jpeg": "/KanBan-Quicksell-assignment/static/media/user2.9963ed168674db42f1eb.jpeg",
+    "static/media/user3.jpeg": "/KanBan-Quicksell-assignment/static/media/user3.d8070250688cd5812ad5.jpeg",
+    "static/media/user4.jpeg": "/KanBan-Quicksell-assignment/static/media/user4.c0d6819ff8e63d6ebd45.jpeg",
+    "static/media/user1.jpeg": "/KanBan-Quicksell-assignment/static/media/user1.9e7c017674401a45392c.jpeg",
+    "static/media/Cancelled.svg": "/KanBan-Quicksell-assignment/static/media/Cancelled.360749f102ea2ac68b5841e9f9ff29dd.svg",
+    "static/media/No-priority.svg": "/KanBan-Quicksell-assignment/static/media/No-priority.7218b139313728c6a4efa8da6e34852b.svg",
+    "static/media/Done.svg": "/KanBan-Quicksell-assignment/static/media/Done.a5158827c6345b2f141ff681c57cb3ac.svg",
+    "index.html": "/KanBan-Quicksell-assignment/index.html",
+    "static/media/Img-Low-Priority.svg": "/KanBan-Quicksell-assignment/static/media/Img-Low-Priority.491e21f9000cb90112dea470dbb72650.svg",
+    "static/media/Img-Medium-Priority.svg": "/KanBan-Quicksell-assignment/static/media/Img-Medium-Priority.83775665307e977d62e9b0fc7fb95cc4.svg",
+    "static/media/Img-High-Priority.svg": "/KanBan-Quicksell-assignment/static/media/Img-High-Priority.5024fd0d163cb13c95f2d29079e2974d.svg",
+    "static/media/in-progress.svg": "/KanBan-Quicksell-assignment/static/media/in-progress.d4beb72fbc94f765259fc46ecaba9779.svg",
+    "static/media/SVG-Urgent_Priority_colour.svg": "/KanBan-Quicksell-assignment/static/media/SVG-Urgent_Priority_colour.9b67f75d5459d4d66573ef9f8e6f6841.svg",
+    "static/media/Backlog.svg": "/KanBan-Quicksell-assignment/static/media/Backlog.97adf3356b7d2e775ef530f7aed206e0.svg",
+    "main.ea88c318.css.map": "/KanBan-Quicksell-assignment/static/css/main.ea88c318.css.map",
+    "main.48dd946c.js.map": "/KanBan-Quicksell-assignment/static/js/main.48dd946c.js.map"
   },
   "entrypoints": [
     "static/css/main.ea88c318.css",
-    "static/js/main.697c3b66.js"
+    "static/js/main.48dd946c.js"
   ]
 }
